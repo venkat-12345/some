@@ -1,0 +1,10 @@
+Variables:
+Resolution
+Pose(acclusion)
+Part of the Person
+Background
+Size of the person
+Position
+Image subsc
+CRON,SystemD
+
